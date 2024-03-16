@@ -1,0 +1,129 @@
+body{
+    background-color: #F6F6F6;
+}
+
+.top{
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-h6{
+    font-weight: bold;
+}
+
+a{
+    color: #000000;
+}
+
+.navbar{
+    height: 50px;
+    
+}
+
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    border-color: #000000;
+    margin-left: 10px;
+    font-weight: bold;
+    
+}
+
+.contact{
+    background-color: #000000;
+    
+}
+
+.contact-in{
+    color: white;
+}
+
+.banner {
+    max-width: 100%;
+    height: auto;
+  }
+
+.carousel-inner{
+    border-radius: 6px;
+  }
+
+.card{
+    width: 18rem;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 40px;
+}
+
+.footer{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 40px 0px #616060;
+}
+
+.explore{
+    font-weight: bold;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+.footer-a{
+    color: white;
+    text-decoration: none;
+}
+
+/* Extra Small */
+@media (max-width: 576px) {
+  }
+  
+  /* Small */
+  @media (max-width: 768px) {
+    .top-h6{
+        font-size: 10px;
+    }
+    .navbar{
+        height: 20px; 
+    }
+    .social{
+        font-size: 10px;
+    }
+    .btn{
+        margin-top: 10px;
+        font-size: 7px;
+    }
+    .navbar-brand{
+        font-size: 10px;
+    }
+
+    .explore{
+        margin-top: 40px;
+    }
+
+    .em{
+        margin-top: 40px;
+    }
+
+    .footer-icon{
+        margin-bottom: 20px;
+    }
+  }
+  
+    /* Medium */
+  @media (max-width: 992px) {
+    
+  }
+  
+    /* Large */
+  @media (max-width: 1200px) {
+    
+  }
+  
