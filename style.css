@@ -83,34 +83,6 @@ h4{
 
 /* Extra Small */
 @media (max-width: 576px) {
-    .top-h6{
-        font-size: 10px;
-    }
-    .navbar{
-        height: 20px; 
-    }
-    .social{
-        font-size: 10px;
-    }
-    .btn{
-        margin-top: 10px;
-        font-size: 7px;
-    }
-    .navbar-brand{
-        font-size: 10px;
-    }
-
-    .explore{
-        margin-top: 40px;
-    }
-
-    .em{
-        margin-top: 40px;
-    }
-
-    .footer-icon{
-        margin-bottom: 20px;
-    }
   }
   
   /* Small */
